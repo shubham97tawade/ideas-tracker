@@ -2,8 +2,8 @@
 
 ### Installation
 <br/>
-1. Clone the repository
-2. Spin up the container
+<li>1. Clone the repository</li>
+<li>2. Spin up the container</li><br/>
 ```sh
 docker-compose up
 ```sh
