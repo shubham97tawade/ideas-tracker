@@ -1,0 +1,24 @@
+.Idea{
+    width: 100%;
+    min-height: calc(100vh - 8rem);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background-color: #f7f7f1;
+}
+.Idea .container{
+    width: 60%;
+    margin-left: auto;
+    background-color: #e8ebea;
+    margin-right: auto;
+    border-radius: 0.5rem;
+    margin-bottom: 3rem;
+    padding: 2rem;
+}
+.button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button-container button:nth-child(2){
+    background-color: #2f3d4c;
+}
