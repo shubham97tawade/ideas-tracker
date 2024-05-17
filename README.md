@@ -2,9 +2,13 @@
 
 ### Installation
 <br/>
-<li>1. Clone the repository</li>
-<li>2. Spin up the container</li><br/>
+<li>Clone the repository</li>
+
+```console
+foo@bar:~$ https://github.com/shubham97tawade/ideas-tracker.git
+```
+<li>Spin up the container</li>
+
 ```console
 foo@bar:~$ docker-compose up
-foo
 ```
